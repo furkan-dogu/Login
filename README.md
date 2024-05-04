@@ -28,10 +28,10 @@ This React Native app allows users to sign up, log in, and log out using Firebas
 - If you don't have an account, you can sign up by tapping the "Sign Up" button and providing your email and password.
 - Once logged in, you will be redirected to the home screen where you can see your email address and sign out by tapping the "Sign Out" button.
 
-## Login App
+## Technologies Used
 
 ```
-Number Guessing Game (folder)
+Login App (folder)
 │
 ├── assets
 │     └── [images]
