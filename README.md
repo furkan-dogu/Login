@@ -1,7 +1,7 @@
 # Login App
 
 <div align="center">
-  <img src="./assets/screenshots/sayi_oyunu.gif" />
+  <img src="./assets/screenshots/login.gif" />
 </div>
 
 ## About the Project
